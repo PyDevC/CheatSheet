@@ -1,5 +1,5 @@
-#Git
-***
+# Git
+
 view all your settings and where they are coming from.
 ```bash
 git config --list --show-origin
